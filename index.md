@@ -38,6 +38,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 [![LCR Dice Game Code Review](https://img.youtube.com/vi/https://youtu.be/9_naX0HTn6k/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/9_naX0HTn6k)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=XHECZDy_ctg
-" target="_blank"><img src="http://img.youtube.com/vi/XHECZDy_ctg/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=SRlQL94J9oM
+" target="_blank"><img src="http://img.youtube.com/vi/SRlQL94J9oM/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
