@@ -4,26 +4,47 @@ You can use the [editor on GitHub](https://github.com/cmhenwood/cmhenwood.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Spaceship Interface - Arduino
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+/*
+One green LED (D1) symbolizing "system ready" remains lit until switch (SW1)
+is depressed at which point two red LEDs (D2&D3) alternate turning on and off
+every 250ms symbolizing "engage hyperdrive" while the switch remains depressed.
+*/
 
-1. Numbered
-2. List
+int switchState = 0; //initialized to off
 
-**Bold** and _Italic_ and `Code` text
+void setup() {
 
-[Link](url) and ![Image](src)
+  pinMode(3,OUTPUT); //D1
+  pinMode(4,OUTPUT); //D2
+  pinMode(5,OUTPUT); //D3
+  pinMode(2,INPUT); //SW1
+}
+
+void loop() {
+
+  switchState = digitalRead(2); //get SW1 state
+  //HIGH is on and LOW is off
+  if ( switchState == LOW ) {
+    digitalWrite(3, HIGH);
+    digitalWrite(4, LOW);
+    digitalWrite(5, LOW);
+
+    } else {
+    digitalWrite(3, LOW);
+    digitalWrite(4, LOW);
+    digitalWrite(5, HIGH);
+    
+    delay(250);
+    digitalWrite(4, HIGH);
+    digitalWrite(5, LOW);
+    delay(250);
+    }
+}
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
