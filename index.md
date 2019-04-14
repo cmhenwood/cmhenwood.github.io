@@ -36,8 +36,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=lojidoW1azU&t
-" target="_blank"><img src="http://img.youtube.com/vi/lojidoW1azU&t/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=lojidoW1azU
+" target="_blank"><img src="http://img.youtube.com/vi/lojidoW1azU/0.jpg" 
 alt="LCR Dice Game" width="240" height="180" border="10" /></a>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=_uJQshS_Upg
