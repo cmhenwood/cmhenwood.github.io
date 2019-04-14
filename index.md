@@ -1,10 +1,18 @@
-## Welcome to GitHub Pages
+## Spaceship Interface - Arduino
 
-You can use the [editor on GitHub](https://github.com/cmhenwood/cmhenwood.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Schematic
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src = "images/spaceShipInterfaceSchematic.png">
 
-### Spaceship Interface - Arduino
+### Demo
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=XCVt5tGuaa8
+" target="_blank"><img src="http://img.youtube.com/vi/XCVt5tGuaa8/0.jpg" 
+alt="Aruino - Spaceship Interface Demo" width="240" height="180" border="10" /></a>
+
+XCVt5tGuaa8
+
+### Code
 
 ```markdown
 
@@ -59,8 +67,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=lojidoW1azU
 " target="_blank"><img src="http://img.youtube.com/vi/lojidoW1azU/0.jpg" 
-alt="LCR Dice Game" width="240" height="180" border="10" /></a>
+alt="LCR Dice Game Narrative" width="240" height="180" border="10" /></a>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=_uJQshS_Upg
 " target="_blank"><img src="http://img.youtube.com/vi/_uJQshS_Upg/0.jpg" 
-alt="Aruino - Spaceship Interface" width="240" height="180" border="10" /></a>
+alt="Aruino - Spaceship Interface Narrative" width="240" height="180" border="10" /></a>
