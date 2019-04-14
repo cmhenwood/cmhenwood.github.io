@@ -10,8 +10,6 @@
 " target="_blank"><img src="http://img.youtube.com/vi/XCVt5tGuaa8/0.jpg" 
 alt="Aruino - Spaceship Interface Demo" width="240" height="180" border="10" /></a>
 
-XCVt5tGuaa8
-
 ### Code
 
 ```markdown
@@ -54,21 +52,15 @@ void loop() {
     }
 }
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cmhenwood/cmhenwood.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=lojidoW1azU
-" target="_blank"><img src="http://img.youtube.com/vi/lojidoW1azU/0.jpg" 
-alt="LCR Dice Game Narrative" width="240" height="180" border="10" /></a>
+### Spaceship Interface Narrative
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=_uJQshS_Upg
 " target="_blank"><img src="http://img.youtube.com/vi/_uJQshS_Upg/0.jpg" 
 alt="Aruino - Spaceship Interface Narrative" width="240" height="180" border="10" /></a>
+
+## LCR Dice Game C++
+
+### LCR Dice Game Narrative
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=lojidoW1azU
+" target="_blank"><img src="http://img.youtube.com/vi/lojidoW1azU/0.jpg" 
+alt="LCR Dice Game Narrative" width="240" height="180" border="10" /></a>
