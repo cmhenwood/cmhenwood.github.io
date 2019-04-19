@@ -1,3 +1,5 @@
+<a href = "index.md" >  < Back to index </a>
+
 ## Spaceship Interface - Arduino
 
 ### Schematic
@@ -52,8 +54,10 @@ void loop() {
     }
 }
 ```
-### Spaceship Interface Narrative
+### Spaceship Interface Walkthrough
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=_uJQshS_Upg
 " target="_blank"><img src="http://img.youtube.com/vi/_uJQshS_Upg/0.jpg" 
 alt="Aruino - Spaceship Interface Narrative" width="240" height="180" border="10" /></a>
+
+<a href = "index.md" >  < Back to index </a>
