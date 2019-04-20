@@ -1,4 +1,7 @@
-<a href = "index.md"> < Back to index</a>
+---
+title: C++
+---
+[< Back to index](index.md)
  
  ## C++ - LCR Dice Game
  
@@ -12,4 +15,4 @@ alt="LCR Dice Game Narrative" width="240" height="180" border="10" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/lojidoW1azU/0.jpg" 
 alt="LCR Dice Game Narrative" width="240" height="180" border="10" /></a>
   
-  <a href = "index.md"> < Back to index</a>
+[< Back to index](index.md)
