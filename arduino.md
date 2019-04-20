@@ -1,13 +1,8 @@
 ---
-title: This will be used as the title-tag of the page head
+title: Arduino
 ---
- 
-hello
-=====
- 
-**You are here!**
 
-<a href = "index.md" >  < Back to index </a>
+ [< Back to index](index.md)
 
 ## Arduino - Spaceship Interface
 
