@@ -91,6 +91,6 @@ run(host = '0.0.0.0', port = 8080)
 <img src = "images/mongoRestfulOutput.png">
 
 ### Sample Output Formmatted
-<img src = "images/formattedRestulOuput.png">
+<img src = "images/formattedRestfulOuput.png">
 
 [< Back to index](index.md)
