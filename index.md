@@ -10,7 +10,7 @@
 ## Artifacts
 <p>     The artifacts I’ve chosen to include demonstrate a range of computer science abilities that include pure software development, software engineering and database management. These artifacts show experience in multiple programming languages and environments and across multiple disciplines such as information systems, programming and electrical engineering. I’ve included three artifacts in this portfolio that highlight skills and experience in the following areas: </p>
 
-* <a href = "lcr.md">Algorithms and Data Structure</a>
+* [Algorithms and Data Structure](lcr.md)
 * [Software Design and Engineering](arduino.md)
 * <a href = "mongo.md">Databases</a>
 
