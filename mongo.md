@@ -49,7 +49,7 @@ main()
 <img src = "images/mongoReadOutput.png">
 
 ### RESTful API
-Here is code with similar functionality to the scripting above but utilizing the RESTful standard. This essentially takes the query from the user and calls a script similar to above to find and display the requested information.
+Here is code with similar functionality to the scripting above but utilizing the RESTful standard. This essentially takes the query from the user using the curl utility and calls a script similar to above to find and display the requested information.
 
 ```Python
 #!/usr/bin/python
