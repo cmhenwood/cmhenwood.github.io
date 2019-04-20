@@ -18,11 +18,11 @@ title: Christopher Henwood ePorfolio
 * [Software Design and Engineering](arduino.md)
 * [Databases](mongo.md)
 
-<p>     The algorithms and data structures artifact is a simulated dice game in C++ called LCR or left center right. It utilizes class structures, vectors, loops, conditionals, calls external resources/files and takes input from the user. An informal code review and enhanced code walkthrough are included in [this artifact.](lcr.md)</p>
+The algorithms and data structures artifact is a simulated dice game in C++ called LCR or left center right. It utilizes class structures, vectors, loops, conditionals, calls external resources/files and takes input from the user. An informal code review and enhanced code walkthrough are included in [this artifact.](lcr.md)
 
-<p>The software design and engineering artifact is an Arduino Uno project called Spaceship Interface. This artifact includes a schematic of the circuit as well as the code, a video demonstration and a video walkthrough of [the artifact.](arduino.md)</p>
+The software design and engineering artifact is an Arduino Uno project called Spaceship Interface. This artifact includes a schematic of the circuit as well as the code, a video demonstration and a video walkthrough of [the artifact.](arduino.md)
 
-<p>The database artifact shows work with MongoDB and includes utilizing Python scripting and a RESTful API. The code and explanation are included in [the artifact.](mongo.md)</p>
+The database artifact shows work with MongoDB and includes utilizing Python scripting and a RESTful API. The code and explanation are included in [the artifact.](mongo.md)
 
 
 ### C++ LCR Dice Game
