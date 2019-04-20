@@ -42,6 +42,7 @@ def main():
     
 main()
 ```
-### [Sample Output](images/mongoReadOutput.png)
+### Sample Output
+<img src = "images/mongoReadOutput.png">
 
 [< Back to index](index.md)
