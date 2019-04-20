@@ -44,7 +44,8 @@ def main():
     
 main()
 ```
-### Sample Output
+
+### Sample Output Raw
 <img src = "images/mongoReadOutput.png">
 
 ### RESTful API
@@ -83,7 +84,13 @@ def read():
 
 run(host = '0.0.0.0', port = 8080)
 ```
+### Command
+<img src = "images/restfulCommand.png">
+
 ### Sample Output
 <img src = "images/mongoRestfulOutput.png">
+
+### Sample Output Formmatted
+<img src = "images/formattedRestulOuput.png">
 
 [< Back to index](index.md)
