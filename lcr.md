@@ -4,6 +4,8 @@ title: C++
 [< Back to index](index.md)
 
 ## C++ - LCR Dice Game
+
+This project is a simulated dice game called left center right. It was coded in C++ using Microsoft Visual Studios. This project includes an informal review and a walkthrough of the code after enhancement.
  
 ### LCR Dice Game Informal Review  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ypwquhHScjg
