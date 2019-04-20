@@ -83,6 +83,7 @@ def read():
 
 run(host = '0.0.0.0', port = 8080)
 ```
-
+### Sample Output
+<img src = "mongoRestfulOutput.png">
 
 [< Back to index](index.md)
