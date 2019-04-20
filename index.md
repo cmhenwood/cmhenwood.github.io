@@ -21,14 +21,14 @@
 <p>The database artifact shows work with MongoDB and includes utilizing Python scripting and a RESTful API. The code and explanation are included in <a href = "mongo.db">the artifact.</a></p>
 
 
-## C++ LCR Dice Game
+### C++ LCR Dice Game
 
 <a href = "lcr.md"> Click here to view project details... </a>
 
-## Arduino - Spaceship Interface
+### Arduino - Spaceship Interface
 
 <a href = "arduino.md"> Click here to view project details... </a>
 
-## MongoDB
+### MongoDB
 
 <a href = "mongo.md"> Click here to view project details... </a>
