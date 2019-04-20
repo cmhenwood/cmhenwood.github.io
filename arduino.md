@@ -1,6 +1,8 @@
 <a href = "index.md" >  < Back to index </a>
 
-## Spaceship Interface - Arduino
+## Arduino - Spaceship Interface
+
+This Arduino Uno project utilizes a push button switch and some code to manipulate three LEDs which will symbolize one of two states, "system ready" or "engage hyperdrive". Below is a schematic, followed by a demonstration of the completed project. The code and a video walkthrough are also included.
 
 ### Schematic
 
