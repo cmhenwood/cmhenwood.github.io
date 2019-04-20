@@ -42,7 +42,6 @@ def main():
     
 main()
 ```
-### Sample Output
-
+### [Sample Output](images/mongoReadOutput.png)
 
 [< Back to index](index.md)
