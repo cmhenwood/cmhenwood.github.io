@@ -2,8 +2,8 @@
 title: C++
 ---
 [< Back to index](index.md)
- 
- ## C++ - LCR Dice Game
+
+## C++ - LCR Dice Game
  
 ### LCR Dice Game Informal Review  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ypwquhHScjg
