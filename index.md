@@ -11,7 +11,7 @@
 <p>     The artifacts I’ve chosen to include demonstrate a range of computer science abilities that include pure software development, software engineering and database management. These artifacts show experience in multiple programming languages and environments and across multiple disciplines such as information systems, programming and electrical engineering. I’ve included three artifacts in this portfolio that highlight skills and experience in the following areas: </p>
 
 * <a href = "lcr.md">Algorithms and Data Structure</a>
-* <a href = "cmhenwood.github.io/cmhenwood/arduino">Software Design and Engineering</a>
+* <a href = "cmhenwood.github.io/cmhenwood/arduino.md">Software Design and Engineering</a>
 * <a href = "mongo.md">Databases</a>
 
 <p>     The algorithms and data structures artifact is a simulated dice game in C++ called LCR or left center right. It utilizes class structures, vectors, loops, conditionals, calls external resources/files and takes input from the user. An informal code review and enhanced code walkthrough are included in <a href = "lcr.md">this artifact.</a> </p>
